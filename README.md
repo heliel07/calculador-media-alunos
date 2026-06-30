@@ -30,4 +30,4 @@ Somente ter o **Python 3** instalado no pc
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/heliel07/calculador-media-alunos.git](https://github.com/heliel07/calculador-media-alunos.git)
+   git clone https://github.com/heliel07/calculador-media-alunos.git
